@@ -1,0 +1,38 @@
+{
+  "name": "humaniart",
+  "short_name": "humaniart",
+  "start_url": "https://humaniart.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Humaniart Game Hack Community",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-eMYMJRUqxsA/XhQVMHwRWbI/AAAAAAAAATg/2Ob-iAwTgOkFSaPT49ZliX3b3zm_vASRwCLcBGAsYHQ/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-jXTG5NYjq8c/XhQVdo4KX2I/AAAAAAAAATo/Yq7YEH80GtILD28zDnM2fogcHkW92utNQCLcBGAsYHQ/s1600/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-k8ZH-9cvhLs/XhQVp76LInI/AAAAAAAAATs/rtLNmDDoskArLmhG32-d6WnZBXrnRCqsgCLcBGAsYHQ/s1600/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-PFQHuPjsxuE/XhQV_li7TrI/AAAAAAAAAT4/fSsrpLXfEmwitD266Jjz3cF9WpvefNe8gCLcBGAsYHQ/s1600/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-5-GjX8HcDR8/XhQXCqNY5YI/AAAAAAAAAUE/ndReR-b6QucWhWIdyIdKbjxExCEJhYBUQCLcBGAsYHQ/s1600/android-icon-168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-cGCxrOr9EUA/XhQXUT8JlbI/AAAAAAAAAUM/iPkd2MhqHes8wRwJ8losPaBIiowKGhZwwCLcBGAsYHQ/s1600/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-oNyyWYzzGz8/XhQX5SW-iEI/AAAAAAAAAUU/XF5IRRmmGcgpFkudabQZtUNWxvIYmc_BQCLcBGAsYHQ/s1600/HUMANIART-512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
